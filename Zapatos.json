@@ -1,0 +1,65 @@
+{
+    "zapatos": [
+      {
+        "modelo": "Street Runner",
+        "marca": "UrbanWalk",
+        "talla": 9,
+        "color": "negro",
+        "precio": 89.99,
+        "material": "sintético",
+        "calificacion": 4.5,
+        "en_stock": true
+      },
+      {
+        "modelo": "Classic Leather",
+        "marca": "Eleganza",
+        "talla": 10.5,
+        "color": "marrón",
+        "precio": 120.00,
+        "material": "cuero",
+        "calificacion": 4.8,
+        "en_stock": false
+      },
+      {
+        "modelo": "Sport Max",
+        "marca": "ActiveStep",
+        "talla": 8,
+        "color": "blanco",
+        "precio": 99.95,
+        "material": "malla",
+        "calificacion": 4.2,
+        "en_stock": true
+      },
+      {
+        "modelo": "Casual Flex",
+        "marca": "ComfortLine",
+        "talla": 7,
+        "color": "gris",
+        "precio": 75.50,
+        "material": "tela",
+        "calificacion": 3.9,
+        "en_stock": true
+      },
+      {
+        "modelo": "Formal Prime",
+        "marca": "DressCo",
+        "talla": 11,
+        "color": "negro",
+        "precio": 145.00,
+        "material": "cuero",
+        "calificacion": 4.7,
+        "en_stock": false
+      },
+      {
+        "modelo": "Trail Blazer",
+        "marca": "MountainStep",
+        "talla": 9.5,
+        "color": "verde oliva",
+        "precio": 110.00,
+        "material": "cuero sintético",
+        "calificacion": 4.3,
+        "en_stock": true
+      }
+    ]
+  }
+  
